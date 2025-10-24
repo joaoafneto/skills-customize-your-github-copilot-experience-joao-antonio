@@ -13,6 +13,7 @@ Este projeto é um site educacional para compartilhar tarefas de casa e exercíc
 
 - Manter estilo consistente em todas as páginas
 - Manter nomes de arquivos e pastas descritivos e organizados
+- Deverá ser em português claro e acessível para estudantes
 
 ## Padrões Educacionais
 
